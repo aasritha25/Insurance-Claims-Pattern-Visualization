@@ -15,6 +15,20 @@ An interactive, end-to-end **Business Intelligence & Data Visualization Dashboar
 
 ---
 
+## 📖 Project Description & Objectives
+
+In the insurance industry, claims processing and risk underwriting rely heavily on identifying behavioral anomalies, spatial loss concentrations, and cost distribution patterns. With thousands of claims processed annually, raw tabular datasets often obscure critical operational insights and fraud vectors.
+
+This project delivers an in-depth exploratory data analysis and executive-ready visual dashboard developed in **Tableau**. It integrates claims records across multiple dimensions—including policyholder demographics, collision severities, vehicle manufacturers, geographic incident locations, and payout structures.
+
+### 🎯 Core Objectives
+- **Financial Exposure Mapping:** Dissect total claimed liabilities into distinct component costs (vehicle damage, bodily injuries, property damage).
+- **Fraud Anomaly Detection:** Track the incidence of reported fraud (~24.7%) and correlate it with incident severity, policy duration, and deductible choices.
+- **Demographic & Behavioral Profiling:** Analyze driver age distributions and vehicle makes (Dodge, Subaru, Saab, Ford, Chevrolet, etc.) to uncover high-frequency loss profiles.
+- **Geographic Pattern Recognition:** Monitor incident density across cities (Arlington, Columbus, Hillsdale, Northbend, Northbrook, Riverwood, Springfield) to support localized risk pricing.
+
+---
+
 ## 📌 Executive Summary & Key Performance Indicators (KPIs)
 
 The dashboard provides a bird's-eye view of insurance claim distribution, cost drivers, and operational risk metrics across policyholders:
